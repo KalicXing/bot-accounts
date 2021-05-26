@@ -23,4 +23,4 @@ Expected Report
 Below is a sample email received from the script
 
 
-.. image:: https://github.com/KalicXing/bot-accountst/blob/main/images/report%20sample.png
+.. image:: https://github.com/KalicXing/bot-accounts/blob/main/images/report%20sample.png
